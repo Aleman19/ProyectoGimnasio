@@ -1,0 +1,4 @@
+Proyecto #1 / Fernanda Alemán - Jonathan Morales
+Git: https://github.com/Aleman19/ProyectoGimnasio.git
+Jira: https://mariaferale99.atlassian.net/jira/software/projects/PGT/boards/2/backlog?selectedIssue=PGT-1
+
